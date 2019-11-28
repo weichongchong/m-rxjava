@@ -1,0 +1,2 @@
+include ':app', ':rxjava'
+rootProject.name='m-rxjava'
